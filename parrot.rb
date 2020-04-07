@@ -4,3 +4,5 @@
 def parrot(x = "Squawk!")
   x
 end
+
+parrot
