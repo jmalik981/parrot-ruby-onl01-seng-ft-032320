@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot(x = "Squawk!")
-  puts "Squawk!"
+  return "Squawk!"
 end
 
 parrot
